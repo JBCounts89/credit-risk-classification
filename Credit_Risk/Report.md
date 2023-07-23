@@ -27,16 +27,16 @@ the testing set would qualify as low or high risk. Please see the results below 
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model 1:
-  Precision: 93% (The model was 100% precise in predicting low risk loans but 87% in predicting               high risk loans, making 93% the average)
-  Accuracy: 94%
+* Machine Learning Model 1:  
+  Precision: 93% (The model was 100% precise in predicting low risk loans but 87% in predicting               high risk loans, making 93% the average)  
+  Accuracy: 94%  
   
   Recall: 95% (The model was 100% precise in predicting low risk loans but 89% in predicting high          risk loans, making 95% the average)
 
 
-* Machine Learning Model 2:
-  Precision: 93% (The model was 100% precise in predicting low risk loans but 87% in predicting               high risk loans, making 93% the average)
-  Accuracy: 100% (overfit)
+* Machine Learning Model 2:  
+  Precision: 93% (The model was 100% precise in predicting low risk loans but 87% in predicting               high risk loans, making 93% the average)  
+  Accuracy: 100% (overfit)  
   
   Recall: 100% (overfit)
 
