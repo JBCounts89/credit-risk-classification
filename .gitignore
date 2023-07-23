@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore common Python files and directories
+*.pyc
+__pycache__
