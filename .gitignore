@@ -4,3 +4,4 @@
 # Ignore common Python files and directories
 *.pyc
 __pycache__
+.DS_Store
