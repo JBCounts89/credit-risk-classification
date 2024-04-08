@@ -1,7 +1,7 @@
-#**Credit-Risk-Classification**\
+**Credit-Risk-Classification**\
 Module 20 Challenge
 
-**My Comments**\ 
+**My Comments**\
 Please see the Credit_Risk folder for the completed code and my full report. Thank you!
 
 **Background**\  
