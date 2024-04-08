@@ -4,8 +4,8 @@ Module 20 Challenge
 **My Comments**\
 Please see the Credit_Risk folder for the completed code and my full report. Thank you!
 
-**Background**<br />  
-In this Challenge I used various techniques to train and evaluate a model based on loan
+**Background**<br />
+In this challenge I used various techniques to train and evaluate a model based on loan
 risk. It included a dataset of historical lending activity from a peer-to-peer lending services
 company used to build a model that can identify the creditworthiness of borrowers.
 
