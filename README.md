@@ -4,18 +4,18 @@ Module 20 Challenge
 **My Comments**\
 Please see the Credit_Risk folder for the completed code and my full report. Thank you!
 
-**Background**\  
+**Background**<br />  
 In this Challenge I used various techniques to train and evaluate a model based on loan
 risk. It included a dataset of historical lending activity from a peer-to-peer lending services
 company used to build a model that can identify the creditworthiness of borrowers.
 
-**Split the Data into Training and Testing Sets**\ 
+**Split the Data into Training and Testing Sets**<br />
 Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
 Created the labels set (y) from the “loan_status” column and then created the features (X)
 DataFrame from the remaining columns. Split the data into training and testing datasets by using
 train_test_split.
 
-**Create a Logistic Regression Model with the Original Data**\ 
+**Create a Logistic Regression Model with the Original Data**<br />
 -Fit a logistic regression model by using the training data (X_train and y_train).
 
 -Save the predictions for the testing data labels by using the testing feature data (X_test) and the fitted model.
